@@ -1,0 +1,15 @@
+$edit_dict_data = array(
+		'msg_type' => 3120,
+		'element'   => array(
+						'id' => 20730,
+						'type' => 'id',
+						'dict_id' => ''
+				      ),
+		'fields'   => array(
+						1 => array(
+								'name'  => 'd_name',
+								'lang' => 'ru',
+								'value' => 'Third dict element'
+							),
+				     )
+		);

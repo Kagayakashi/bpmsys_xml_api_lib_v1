@@ -1,0 +1,8 @@
+$set_object_state = array(
+		'msg_type' => 3010,
+		'object'   => array(
+						'id'  => 83,
+						'old' => 192,
+						'new' => 212
+				      )
+		);	

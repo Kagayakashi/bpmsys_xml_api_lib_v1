@@ -1,0 +1,12 @@
+$exec_function = array(
+		'msg_type' => 5000,
+		'function'   => array(
+						'name' => 'f_summa',
+				      ),
+		'args'   => array(
+						1 => array(
+								'name'  => '$int',
+								'value' => '18'
+							)
+				     )
+		);

@@ -1,0 +1,18 @@
+$get_metric = array(
+		'msg_type' => 4000,
+		'search'   => array(
+						1 => array(
+								'name' => 'id',
+								'operator' => '=',
+								'value' => '13'
+							)
+				      ),
+		'data'	   => array(
+						1 => array(
+								'name' => 'code',
+								'sort' => 'asc'
+							)
+					  ),
+		'limit'	   => 10,
+		'total'	   => 'off'
+		);

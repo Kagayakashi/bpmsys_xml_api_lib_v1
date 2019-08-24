@@ -1,0 +1,9 @@
+$set_dict_status = array(
+		'msg_type' => 3130,
+		'element'   => array(
+						'id'  => 83,
+						'type' => 'id',
+						'new' => 2,
+						'dict_id' => ''
+				      )
+		);	

@@ -1,0 +1,22 @@
+$start_process = array(
+		'msg_type' => 3000,
+		'object'   => array(
+						'process' => 83,
+						'group'	  => 192
+				      ),
+		'fields'   => array(
+						1 => array(
+								'name'  => 'o_name',
+								'value' => 'Invoice No. 12'
+							),
+						2 => array(
+								'name'  => 'amount',
+								'value' => '100.00'
+							),
+						3 => array(
+								'name'  => 'currency',
+								'type'  => 'id',
+								'value' => '840'
+							)
+				     )
+		);	

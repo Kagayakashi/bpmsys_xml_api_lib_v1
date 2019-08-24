@@ -1,0 +1,16 @@
+$add_events = array(
+		'msg_type' => 9010,
+		'events'   => array(
+						1 => array(
+								'category'  => 'warning',
+								'value' => 'Invoice No. 12'
+							),
+						2 => array(
+								'category'  => 'error',
+								'value' => '100.00'
+							),
+						3 => array(
+								'value' => 'Hi',
+							)
+				     )
+		);	

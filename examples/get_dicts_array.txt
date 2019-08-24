@@ -1,0 +1,37 @@
+$get_dicts = array(
+		'msg_type' => 3100,
+		'search'   => array(
+						1 => array(
+								'name' => 'o_status',
+								'operator' => '=',
+								'value' => '1'
+							),
+						2 => array(
+								'name' => 'name',
+								'operator' => 'like',
+								'value' => 'John*Bre?son'
+							),
+						101 => array(
+								'name' => 'report*.???',
+								'operator' => 'exist'
+							)
+				      ),
+		'dictionary' => '364'
+		'data'	   => array(
+						1 => array(
+								'name' => 'o_name',
+								'sort' => 'asc'
+							),
+						2 => array(
+								'name' => 'birthday',
+								'sort' => 'desc'
+							),
+						101 => array(
+								'name' => 'test*',
+								'size' => '[0;30000]'
+							)
+					  ),
+		'limit'	   => 10,
+		'total'	   => 'off'
+		'picture'  => 'off'
+		);

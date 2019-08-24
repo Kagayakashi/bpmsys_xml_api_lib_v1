@@ -1,0 +1,21 @@
+$edit_object = array(
+		'msg_type' => 3030,
+		'object'   => array(
+						'id' => 703,
+				      ),
+		'fields'   => array(
+						1 => array(
+								'name'  => 'o_name',
+								'value' => 'Invoice No. 12'
+							),
+						2 => array(
+								'name'  => 'amount',
+								'value' => '100.00'
+							),
+						3 => array(
+								'name'  => 'currency',
+								'type'  => 'id',
+								'value' => 'qwerty'
+							)
+				     )
+		);

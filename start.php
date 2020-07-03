@@ -3,7 +3,7 @@
 * @Initialization
 * Lib Name: SimBASE API
 * Description: Lib contain all sbapi requests for special interface creation.
-* Version: 1.0
+* Version: 1.0 | 2019
 * Author: Vyacheslav Odinokov
 * Author contact: kagayakashi.vo@gmail.com
 **/
